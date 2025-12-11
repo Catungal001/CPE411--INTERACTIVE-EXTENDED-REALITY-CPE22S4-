@@ -1,6 +1,6 @@
 # CPE411--INTERACTIVE-EXTENDED-REALITY-CPE22S4-
 
-**<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -38,4 +38,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
-###**
+

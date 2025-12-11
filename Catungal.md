@@ -14,7 +14,15 @@
 
 ###
 
+<img align="left" height="108" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHV1eXEyeHU1cWJlbXo5emFvZm9kejZzYndkNHprdWM3d3VyY2c3aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fUYhyT9IjftxrxJXcE/giphy.gif"  />
+
+###
+
 <p align="left">📚 I'm currently learning - Interactive Extended Reality (CPE411), Web Design, and JavaScript frameworks<br><br>🎯 Goals: - Build engaging XR experiences and master full-stack web development<br><br>🎲 Fun fact: Sometimes I talk to my computer like it understands me (it probably does)</p>
+
+###
+
+<img align="right" height="100" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDVpZWZ0ZTltY3lkMDhvbmE3Y2o2eHpzOWQ2bmRvNDJ4cWg3dDZ1ZiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/gKHGnB1ml0moQdjhEJ/giphy.gif"  />
 
 ###
 

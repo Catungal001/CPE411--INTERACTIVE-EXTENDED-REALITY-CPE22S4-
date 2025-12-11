@@ -10,11 +10,11 @@
 
 ###
 
-<h6 align="left">About me</h6>
+<img align="left" height="60" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3R4amNtMXBibGVvNndqNGF4eXdvMTdieHBkOHBzMnB0YXRsbmlvbSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/iRTYTAhca7Nj7WVwC8/giphy.gif"  />
 
 ###
 
-<img align="left" height="108" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHV1eXEyeHU1cWJlbXo5emFvZm9kejZzYndkNHprdWM3d3VyY2c3aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fUYhyT9IjftxrxJXcE/giphy.gif"  />
+<h6 align="left">About me</h6>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<img align="right" height="100" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDVpZWZ0ZTltY3lkMDhvbmE3Y2o2eHpzOWQ2bmRvNDJ4cWg3dDZ1ZiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/gKHGnB1ml0moQdjhEJ/giphy.gif"  />
+<img align="right" height="70" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDVpZWZ0ZTltY3lkMDhvbmE3Y2o2eHpzOWQ2bmRvNDJ4cWg3dDZ1ZiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/gKHGnB1ml0moQdjhEJ/giphy.gif"  />
 
 ###
 
